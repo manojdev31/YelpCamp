@@ -17,28 +17,4 @@
 	border-radius: 20px;
 
 }
- /*styling moving bar*/
-#container .btn{
-	position: absolute;
-	width: 50px;
-	height: 50px;
-	border:none;
-	border-radius: 25px;
-	margin-top:200px;
-	background-color: grey;
-	color: white;
-	font-size: 20px;
-	border:1px solid black;
-}
-#container>#btn2{
-	position:relative;
-	float: right;
-	
-}
-#container>#btn1:hover{
-	box-shadow: 10px 0px 20px 0px grey;
-
-}
-#container>#btn2:hover{
-	box-shadow: -10px 0px 20px 0px grey;
-}
+ 
